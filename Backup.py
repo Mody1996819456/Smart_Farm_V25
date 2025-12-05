@@ -46,7 +46,6 @@ a);requestAnimationFrame(function(){g(document.body)})})}var l=["material-icons"
 <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" rel="stylesheet">
 <style>
         body { font-family: 'Cairo', sans-serif; background-color: #f1f5f9; }
-        ::-webkit-scrollbar { width: 6px; }
         ::-webkit-scrollbar-track { background: #e2e8f0; }
         ::-webkit-scrollbar-thumb { background: #16a34a; border-radius: 3px; }
         .fade-in { animation: fadeIn 0.4s ease-in-out; }
