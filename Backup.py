@@ -48,7 +48,6 @@ a);requestAnimationFrame(function(){g(document.body)})})}var l=["material-icons"
         body { font-family: 'Cairo', sans-serif; background-color: #f1f5f9; }
         ::-webkit-scrollbar-track { background: #e2e8f0; }
         ::-webkit-scrollbar-thumb { background: #16a34a; border-radius: 3px; }
-        .fade-in { animation: fadeIn 0.4s ease-in-out; }
         @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
         
         @media print {
